@@ -1,4 +1,4 @@
-# 📰 Detecting and Mitigating Fake News
+# Detecting and Mitigating Fake News
 ### An AI Framework for Truth and Trust
 
 This project isn't just a news classifier; it’s a tool built to understand how humans interact with misinformation. I developed a high-precision pipeline to help users learn the patterns of fake news and to test whether people trust AI more than human experts.
