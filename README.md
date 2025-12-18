@@ -50,7 +50,7 @@ The model achieved high accuracy and reliability in testing:
 **Precision (REAL):** 0.94 (94% of articles labeled REAL were truly real).
 
 
-AUC Value: 0.98, ensuring the authenticity of AI trust markers.
+**AUC Value:** 0.98, ensuring the authenticity of AI trust markers.
 
 # **4- Key Findings**
 The model identifies truthfulness based on specific weighted patterns:
