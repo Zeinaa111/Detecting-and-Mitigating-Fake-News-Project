@@ -44,10 +44,10 @@ This project shows the deployment and results of a machine learning process made
 The model achieved high accuracy and reliability in testing:
 
 
-Accuracy: 94.16%.
+**Accuracy:** 94.16%.
 
 
-Precision (REAL): 0.94 (94% of articles labeled REAL were truly real).
+**Precision (REAL):** 0.94 (94% of articles labeled REAL were truly real).
 
 
 AUC Value: 0.98, ensuring the authenticity of AI trust markers.
@@ -56,14 +56,14 @@ AUC Value: 0.98, ensuring the authenticity of AI trust markers.
 The model identifies truthfulness based on specific weighted patterns:
 
 
-REAL News Indicators: Professional attribution words like "said" and "state".
+**REAL News Indicators:** Professional attribution words like "said" and "state".
 
 
-FAKE News Indicators: Sensationalistic or click-to-share terms like "October" and "share".
+**FAKE News Indicators:** Sensationalistic or click-to-share terms like "October" and "share".
 
 # **5- Future Work**
 
-Deployment: Integrating the model into a web service using the saved .pkl file.
+**Deployment:** Integrating the model into a web service using the saved .pkl file.
 
 
-External Surveys: Implementing human studies to further explore Trust and Vulnerability variables.
+**External Surveys:** Implementing human studies to further explore Trust and Vulnerability variables.
